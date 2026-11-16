@@ -1,4 +1,4 @@
-package com.kipus.invoicing;
+package com.khipus.invoicing;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

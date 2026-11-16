@@ -1,4 +1,4 @@
-package com.kipus.invoicing;
+package com.khipus.invoicing;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
